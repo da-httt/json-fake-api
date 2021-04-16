@@ -15,32 +15,5 @@
      "content":"Education comes from many places, not just formal schooling. People learn from their family, their friends, the television and personal experience among many other ways. Although these avenues of learning are certainly important, I believe that education within schools is much more important, as it lays the foundations for future achievement and wider success as I shall show. Firstly, formal qualifications which are earned at school are often the entry points to certain careers and jobs. In order to be a lawyer or doctor, you need to do well at school so you can go on to study for professional qualifications. Additionally, many jobs ask for basic qualifications in maths and English when you apply. Without these qualifications, an individual could become limited in what they can do with their professional lives.In addition to this, school also prepares you for relationships outside your family, which is an important aspect of life. School is a good socialisation tool because a student needs to deal with relationships on many different levels, for example with teachers and school friends, and they also need to deal with threats to happiness such as bullying or workloads. Families are important as often children gain their moral outlook and aspirational goals from their parents. However, children can succeed without a favourable family setting to a certain extent. It is doubtful whether they could succeed without schooling.In conclusion, although there are many beneficial forms of education, I believe schooling is more important than education within the family. This is because formal education gives you qualifications and socialisation that the family cannot offer."
     }
     ],
-  "orders": [
-    { "order_id": 1, "student_id": "1", "teacher_id":"",  "status_id": 1, "sent_date": "2015-03-25T12:00:00Z", "updated_date" : "2015-03-25T12:00:00Z", "essay_id":2, "total_price":1000000},
-    { "order_id": 1, "student_id": "1", "teacher_id":"2",  "status_id": 2, "sent_date": "2015-03-25T12:00:00Z", "updated_date" : "2015-03-25T12:00:00Z", "essay_id":2, "total_price":1000000},
-    { "order_id": 1, "student_id": "1", "teacher_id":"2",  "status_id": 3, "sent_date": "2015-03-25T12:00:00Z", "updated_date" : "2015-03-25T12:00:00Z", "essay_id":2, "total_price":1000000},
-    { "order_id": 1, "student_id": "1", "teacher_id":"2",  "status_id": 4, "sent_date": "2015-03-25T12:00:00Z", "updated_date" : "2015-03-25T12:00:00Z", "essay_id":2, "total_price":1000000},
-    { "order_id": 1, "student_id": "1", "teacher_id":"",  "status_id": 1, "sent_date": "2015-03-25T12:00:00Z", "updated_date" : "2015-03-25T12:00:00Z", "essay_id":2, "total_price":1000000},
-    { "order_id": 1, "student_id": "1", "teacher_id":"2",  "status_id": 2, "sent_date": "2015-03-25T12:00:00Z", "updated_date" : "2015-03-25T12:00:00Z", "essay_id":2, "total_price":1000000},
-    { "order_id": 1, "student_id": "1", "teacher_id":"2",  "status_id": 3, "sent_date": "2015-03-25T12:00:00Z", "updated_date" : "2015-03-25T12:00:00Z", "essay_id":2, "total_price":1000000},
-    { "order_id": 1, "student_id": "1", "teacher_id":"",  "status_id": 4, "sent_date": "2015-03-25T12:00:00Z", "updated_date" : "2015-03-25T12:00:00Z", "essay_id":2, "total_price":1000000},
-    { "order_id": 1, "student_id": "1", "teacher_id":"",  "status_id": 1, "sent_date": "2015-03-25T12:00:00Z", "updated_date" : "2015-03-25T12:00:00Z", "essay_id":2, "total_price":1000000},
-    { "order_id": 1, "student_id": "1", "teacher_id":"2",  "status_id": 2, "sent_date": "2015-03-25T12:00:00Z", "updated_date" : "2015-03-25T12:00:00Z", "essay_id":2, "total_price":1000000},
-    { "order_id": 1, "student_id": "1", "teacher_id":"2",  "status_id": 3, "sent_date": "2015-03-25T12:00:00Z", "updated_date" : "2015-03-25T12:00:00Z", "essay_id":2, "total_price":1000000}
-  ],
-  "results": [
-    {"result_id":1, "order_id": 3, "grade": 8, 
-     "review": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-     "comment" : "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-    },
-    {"result_id":1, "order_id": 7, "grade": 8, 
-     "review": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-     "comment" : "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-    },
-    {"result_id":1, "order_id": 11, "grade": 8, 
-     "review": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-     "comment" : "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-    }
-    ],
-  "profile": { "name": "scoremyessay" }
+
 }
