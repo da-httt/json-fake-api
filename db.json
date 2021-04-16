@@ -7,8 +7,8 @@
       {"status_id":1, "status_name":"Waiting"},
       {"status_id":2, "status_name":"OnGoing"},
       {"status_id":3, "status_name":"Done"},
-      {"status_id":4, "status_name":"Cancel"},
-    ],
+      {"status_id":4, "status_name":"Cancel"}
+  ],
   "essays": [
     {"essay_id":1, 
      "title":"The education you receive from your family is more important than the education you receive from school.To what extent do you agree with this statement and why?",
@@ -40,7 +40,7 @@
     {"result_id":1, "order_id": 11, "grade": 8, 
      "review": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
      "comment" : "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-    },
+    }
     ],
   "profile": { "name": "scoremyessay" }
 }
